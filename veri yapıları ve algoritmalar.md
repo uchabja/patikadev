@@ -58,14 +58,7 @@ Binary Search Tree
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
 
-      7
-     / \
-    5   8
-   / \   \
-  1   6   9
- / \
-0   3
-   / \
-  2   4
+![image](https://user-images.githubusercontent.com/94525426/196429321-d3fbd408-d84b-4573-8a9c-9d778c0e4d78.png)
+
 
 www.patika.dev
